@@ -2,21 +2,21 @@
 <h3 align="center">ML & Backend Developer | 2nd Year CSE Student at DSEU Rohini</h3>
 
 <p align="center">
-  <img src="https://media.tenor.com/hVRhFeDFW6oAAAAi/anime-wave.gif" alt="wave" width="300"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjlud3puMTB1ZXNkODJ4ZGE3NTA5NmwwZzVjM3RpYzVyb3hoMXkyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fByehYIrOIzO8XolJK/giphy.gif" alt="wave" width="300"/>
 </p>
 
 ---
 
-### 🧠 About Me
+### About Me
 
 I'm a 2nd-year Computer Science student at *DSEU Rohini*, focused on machine learning, backend development, and systems programming. I’ve built and deployed ML models using **Flask**, working with libraries like **scikit-learn**, **TensorFlow**, and **YDF**.  
 
 I’m also skilled in **C, C++, Java, and Python**, and currently building a physics engine in C++ to sharpen my low-level dev skills.  
-Exploring Linux, system internals, and AI tools like **Langflow** is part of my daily grind.
+Exploring Linux, system internals, and AI tools like **Langflow, CrewAI** is part of my daily grind.
 
 ---
 
-### 🚀 Tech Stack
+### Tech Stack
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" height="40"/>
@@ -31,7 +31,7 @@ Exploring Linux, system internals, and AI tools like **Langflow** is part of my 
 
 ---
 
-### 📚 Currently Exploring
+### Currently Exploring
 
 - ML Deployment & API Design (Flask, FastAPI)  
 - Model optimization and experimentation (YDF, scikit-learn, TensorFlow)  
@@ -41,23 +41,23 @@ Exploring Linux, system internals, and AI tools like **Langflow** is part of my 
 
 ---
 
-### ⚒️ Projects Highlight
+### Projects Highlight
 
 - **ML Tag Recommender** – Flask API integrated with a Node.js app to auto-suggest tags for user input
 - **Physics Engine** – WIP simulation project in C++ to model basic rigid body motion
-- **Crop Recommendation System** -  Made samart crop recommender for farmers which helps then in making data driven decisions 
+- **Crop Recommendation System** -  Made smart crop recommender for farmers which helps them in making data driven decisions 
 
 ---
 
-### 🧰 Tools I Use
+### Tools I Use
 
 - VS Code, Git, Linux, Custom Terminal setups    
-- Langflow, scikit-learn, TensorFlow, YDF  
+- Langflow, CrewAI, scikit-learn, TensorFlow, YDF  
 - YouTube, Stack Overflow, GitHub Discussions
 
 ---
 
-### 📫 Let's Connect
+### Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/divyanshu-kain/)
 
