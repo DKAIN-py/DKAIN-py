@@ -2,7 +2,7 @@
 <h3 align="center">ML & Backend Developer | 2nd Year CSE Student at DSEU Rohini</h3>
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjlud3puMTB1ZXNkODJ4ZGE3NTA5NmwwZzVjM3RpYzVyb3hoMXkyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fByehYIrOIzO8XolJK/giphy.gif" alt="wave" width="300"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3ByanNoemtlYTRjcTNrNHNraDgwZDNqd3ZnZm12ZzlvNjF6ODhqZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif" alt="wave" width="300"/>
 </p>
 
 ---
