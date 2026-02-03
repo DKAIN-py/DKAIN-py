@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Divyanshu</h1>  
-<h3 align="center">ML & Backend Developer | 2nd Year CSE Student at DSEU Rohini</h3>
+<h3 align="center">ML & Backend Developer | CSE Major </h3>
 
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3ByanNoemtlYTRjcTNrNHNraDgwZDNqd3ZnZm12ZzlvNjF6ODhqZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif" alt="wave" width="300"/>
