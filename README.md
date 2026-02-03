@@ -9,9 +9,9 @@
 
 ### About Me
 
-I'm a 2nd-year Computer Science student at *DSEU Rohini*, focused on machine learning, backend development, and systems programming. I’ve built and deployed ML models using **Flask**, working with libraries like **scikit-learn**, **TensorFlow**, and **YDF**.  
+I'm a 2nd-year Computer Science student, focused on machine learning, backend development, and systems programming. I’ve built and deployed ML models using **Flask**, working with libraries like **scikit-learn**, **Pytorch**, and **YDF**.  
 
-I’m also skilled in **C, C++, Java, and Python**, and currently building a physics engine in C++ to sharpen my low-level dev skills.  
+I’m also skilled in **C, C++, and Python**, and currently building a physics engine in C++ to sharpen my low-level dev skills.  
 Exploring Linux, system internals, and AI tools like **Langflow, CrewAI** is part of my daily grind.
 
 ---
@@ -22,7 +22,6 @@ Exploring Linux, system internals, and AI tools like **Langflow, CrewAI** is par
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" title="Flask" width="40" height="40" style="background-color:white; border-radius:6px; padding:4px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="40" height="40"/>
@@ -34,7 +33,7 @@ Exploring Linux, system internals, and AI tools like **Langflow, CrewAI** is par
 ### Currently Exploring
 
 - ML Deployment & API Design (Flask, FastAPI)  
-- Model optimization and experimentation (YDF, scikit-learn, TensorFlow)  
+- Model optimization and experimentation (YDF, scikit-learn, Pytorch)  
 - C++ Systems Programming & Physics Simulation  
 - Linux tools, shell scripting, and OS internals  
 - AI tooling like Langflow
@@ -52,7 +51,7 @@ Exploring Linux, system internals, and AI tools like **Langflow, CrewAI** is par
 ### Tools I Use
 
 - VS Code, Git, Linux, Custom Terminal setups    
-- Langflow, CrewAI, scikit-learn, TensorFlow, YDF  
+- Langflow, CrewAI, scikit-learn, Pytorch, YDF  
 - YouTube, Stack Overflow, GitHub Discussions
 
 ---
